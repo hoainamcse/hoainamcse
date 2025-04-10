@@ -78,8 +78,8 @@
   <a href="https://twitter.com/hoainamcse/" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-525252?style=flat-square&logo=x&logoColor=white" />
   </a>
-  <a href="https://t.me/nhhnmm/" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-525252?style=flat-square&logo=telegram&logoColor=white" />
+  <a href="https://wa.me/84788667627/" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-525252?style=flat-square&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 <!-- <h4>&#x1f4c8; GitHub Stats</h4> -->
